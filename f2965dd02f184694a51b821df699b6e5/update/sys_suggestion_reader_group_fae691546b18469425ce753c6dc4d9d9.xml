@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_suggestion_reader_group">
+    <sys_suggestion_reader_group action="INSERT_OR_UPDATE">
+        <click_in_mode>false</click_in_mode>
+        <context_config_id display_value="testWorkspace AI Search Configuration">fee69154e51846949ab9aa9bffb46ed5</context_config_id>
+        <limit>5</limit>
+        <order>600</order>
+        <section_header>Suggested</section_header>
+        <suggestion_type>Search-based Suggested Results Reader Group for Starter Workspace AI Search Configuration</suggestion_type>
+        <sys_class_name>sys_suggestion_reader_group</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2024-02-07 15:41:40</sys_created_on>
+        <sys_id>fae691546b18469425ce753c6dc4d9d9</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>Search-based Suggested Results Reader Group for Starter Workspace AI Search Configuration</sys_name>
+        <sys_package display_value="testWorkspace" source="x_38004_testwork_0">f2965dd02f184694a51b821df699b6e5</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="testWorkspace">f2965dd02f184694a51b821df699b6e5</sys_scope>
+        <sys_update_name>sys_suggestion_reader_group_fae691546b18469425ce753c6dc4d9d9</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2024-02-07 15:41:40</sys_updated_on>
+    </sys_suggestion_reader_group>
+</record_update>

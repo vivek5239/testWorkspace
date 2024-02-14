@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_suggestion_reader_group">
+    <sys_suggestion_reader_group action="INSERT_OR_UPDATE">
+        <click_in_mode>false</click_in_mode>
+        <context_config_id display_value="testWorkspace - Workspace Search">b2e6915407184694155fdd02361401d6</context_config_id>
+        <limit>5</limit>
+        <order>600</order>
+        <section_header>Suggested</section_header>
+        <suggestion_type>Search-based Suggested Results Reader Group for Starter Workspace - Workspace Search</suggestion_type>
+        <sys_class_name>sys_suggestion_reader_group</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2024-02-07 15:41:40</sys_created_on>
+        <sys_id>fee69154e71846942a1991200e1633d8</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>Search-based Suggested Results Reader Group for Starter Workspace - Workspace Search</sys_name>
+        <sys_package display_value="testWorkspace" source="x_38004_testwork_0">f2965dd02f184694a51b821df699b6e5</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="testWorkspace">f2965dd02f184694a51b821df699b6e5</sys_scope>
+        <sys_update_name>sys_suggestion_reader_group_fee69154e71846942a1991200e1633d8</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2024-02-07 15:41:40</sys_updated_on>
+    </sys_suggestion_reader_group>
+</record_update>

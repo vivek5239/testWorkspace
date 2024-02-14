@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_search_context_config">
+    <sys_search_context_config action="INSERT_OR_UPDATE">
+        <application_id display_value="testWorkspace">f2965dd02f184694a51b821df699b6e5</application_id>
+        <collapse_attachment>false</collapse_attachment>
+        <enable_exact_match>true</enable_exact_match>
+        <evam_definition/>
+        <genius_results_limit/>
+        <hit_highlighting>false</hit_highlighting>
+        <name>testWorkspace - Workspace Search</name>
+        <search_engine>zing</search_engine>
+        <search_profile/>
+        <search_results_limit>10</search_results_limit>
+        <show_tab_counts>false</show_tab_counts>
+        <spell_check>false</spell_check>
+        <suggestions_to_show_limit>10</suggestions_to_show_limit>
+        <sys_class_name>sys_search_context_config</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2024-02-07 15:41:39</sys_created_on>
+        <sys_id>b2e6915407184694155fdd02361401d6</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>testWorkspace - Workspace Search</sys_name>
+        <sys_package display_value="testWorkspace" source="x_38004_testwork_0">f2965dd02f184694a51b821df699b6e5</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="testWorkspace">f2965dd02f184694a51b821df699b6e5</sys_scope>
+        <sys_update_name>sys_search_context_config_b2e6915407184694155fdd02361401d6</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2024-02-07 15:41:39</sys_updated_on>
+        <ts_index_group/>
+        <view/>
+    </sys_search_context_config>
+    <sys_translated_text action="delete_multiple" query="documentkey=b2e6915407184694155fdd02361401d6"/>
+</record_update>

@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update sys_domain="global" table="sys_ux_applicability">
+    <sys_ux_applicability action="INSERT_OR_UPDATE">
+        <active>true</active>
+        <api_name>x_38004_testwork_0.Audience for app testworkspace</api_name>
+        <description/>
+        <name>Audience for app testworkspace</name>
+        <role_names/>
+        <roles>7e965dd02f184694a51b821df699b6ea,76965dd02f184694a51b821df699b6ee</roles>
+        <sys_class_name>sys_ux_applicability</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2024-02-07 15:41:43</sys_created_on>
+        <sys_domain>global</sys_domain>
+        <sys_id>10f615542f184694a51b821df699b641</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>Audience for app testworkspace</sys_name>
+        <sys_overrides/>
+        <sys_package display_value="testWorkspace" source="x_38004_testwork_0">f2965dd02f184694a51b821df699b6e5</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="testWorkspace">f2965dd02f184694a51b821df699b6e5</sys_scope>
+        <sys_update_name>sys_ux_applicability_10f615542f184694a51b821df699b641</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2024-02-07 15:41:43</sys_updated_on>
+    </sys_ux_applicability>
+</record_update>

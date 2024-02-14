@@ -1,0 +1,110 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update>
+    <sys_ui_form_sections form_id="66f6d5542f184694a51b821df699b618" sys_domain="global" table="change_request" version="3">
+        <sys_ui_form_section action="INSERT_OR_UPDATE">
+            <position>0</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2024-02-07 15:41:53</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>a6f6d5542f184694a51b821df699b698</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_overrides/>
+            <sys_ui_form display_value="change_request" name="change_request" sys_domain="global" view="7ae69154e81846944d4e1545717030d5">66f6d5542f184694a51b821df699b618</sys_ui_form>
+            <sys_ui_section caption="NULL" display_value="" name="change_request" sys_domain="global" view="7ae69154e81846944d4e1545717030d5">e6f6d5542f184694a51b821df699b697</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2024-02-07 15:41:53</sys_updated_on>
+        </sys_ui_form_section>
+        <sys_ui_form_section action="INSERT_OR_UPDATE">
+            <position>1</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2024-02-07 15:41:53</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>6ef6d5542f184694a51b821df699b6a0</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_overrides/>
+            <sys_ui_form display_value="change_request" name="change_request" sys_domain="global" view="7ae69154e81846944d4e1545717030d5">66f6d5542f184694a51b821df699b618</sys_ui_form>
+            <sys_ui_section caption="Planning" display_value="Planning" name="change_request" sys_domain="global" view="7ae69154e81846944d4e1545717030d5">6ef6d5542f184694a51b821df699b69f</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2024-02-07 15:41:53</sys_updated_on>
+        </sys_ui_form_section>
+        <sys_ui_form_section action="INSERT_OR_UPDATE">
+            <position>2</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2024-02-07 15:41:53</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>eaf6d5542f184694a51b821df699b6b0</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_overrides/>
+            <sys_ui_form display_value="change_request" name="change_request" sys_domain="global" view="7ae69154e81846944d4e1545717030d5">66f6d5542f184694a51b821df699b618</sys_ui_form>
+            <sys_ui_section caption="Schedule" display_value="Schedule" name="change_request" sys_domain="global" view="7ae69154e81846944d4e1545717030d5">eaf6d5542f184694a51b821df699b6af</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2024-02-07 15:41:53</sys_updated_on>
+        </sys_ui_form_section>
+        <sys_ui_form_section action="INSERT_OR_UPDATE">
+            <position>3</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2024-02-07 15:41:53</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>a6f6d5542f184694a51b821df699b6b6</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_overrides/>
+            <sys_ui_form display_value="change_request" name="change_request" sys_domain="global" view="7ae69154e81846944d4e1545717030d5">66f6d5542f184694a51b821df699b618</sys_ui_form>
+            <sys_ui_section caption="Conflicts" display_value="Conflicts" name="change_request" sys_domain="global" view="7ae69154e81846944d4e1545717030d5">a6f6d5542f184694a51b821df699b6b5</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2024-02-07 15:41:53</sys_updated_on>
+        </sys_ui_form_section>
+        <sys_ui_form_section action="INSERT_OR_UPDATE">
+            <position>4</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2024-02-07 15:41:53</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>32f6d5542f184694a51b821df699b6b9</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_overrides/>
+            <sys_ui_form display_value="change_request" name="change_request" sys_domain="global" view="7ae69154e81846944d4e1545717030d5">66f6d5542f184694a51b821df699b618</sys_ui_form>
+            <sys_ui_section caption="Notes" display_value="Notes" name="change_request" sys_domain="global" view="7ae69154e81846944d4e1545717030d5">62f6d5542f184694a51b821df699b6b8</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2024-02-07 15:41:53</sys_updated_on>
+        </sys_ui_form_section>
+        <sys_ui_form_section action="INSERT_OR_UPDATE">
+            <position>5</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2024-02-07 15:41:53</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>3af6d5542f184694a51b821df699b6e2</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_overrides/>
+            <sys_ui_form display_value="change_request" name="change_request" sys_domain="global" view="7ae69154e81846944d4e1545717030d5">66f6d5542f184694a51b821df699b618</sys_ui_form>
+            <sys_ui_section caption="Closure Information" display_value="Closure Information" name="change_request" sys_domain="global" view="7ae69154e81846944d4e1545717030d5">3af6d5542f184694a51b821df699b6e1</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2024-02-07 15:41:53</sys_updated_on>
+        </sys_ui_form_section>
+        <sys_ui_form action="INSERT_OR_UPDATE">
+            <name>change_request</name>
+            <roles/>
+            <sys_class_name>sys_ui_form</sys_class_name>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2024-02-07 15:41:52</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>66f6d5542f184694a51b821df699b618</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_name>change_request</sys_name>
+            <sys_overrides/>
+            <sys_package display_value="testWorkspace" source="x_38004_testwork_0">f2965dd02f184694a51b821df699b6e5</sys_package>
+            <sys_policy/>
+            <sys_scope display_value="testWorkspace">f2965dd02f184694a51b821df699b6e5</sys_scope>
+            <sys_update_name>sys_ui_form_sections_66f6d5542f184694a51b821df699b618</sys_update_name>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2024-02-07 15:41:52</sys_updated_on>
+            <sys_user/>
+            <view display_value="Workspace testWorkspace 0" name="workspace-testworkspace-0">7ae69154e81846944d4e1545717030d5</view>
+            <view_name/>
+        </sys_ui_form>
+    </sys_ui_form_sections>
+</record_update>
